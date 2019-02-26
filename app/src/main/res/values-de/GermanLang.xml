@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Google translate says Zuordnung is German for 'Assignment'
+    <string name="app_name">Zuordnung 1</string>
+    //German for Hello
+    <string name="assignment">Hallo</string>
+</resources>
